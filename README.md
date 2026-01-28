@@ -31,4 +31,10 @@
   <br/>
   <a href="URL_DO_REPOSITORIO"><img src="https://img.shields.io/badge/%E2%94%94%E2%94%80%E2%94%80%20open_source-000000?style=flat-square&labelColor=000000&color=000000" height="28" /></a><img src="https://img.shields.io/badge/%23_community_patches-252525?style=flat-square&labelColor=252525&color=252525" height="30" />
 
+
+  <h3 style="margin-bottom: 15px; margin-top: 20px;">
+  <samp>──────────────&nbsp;&nbsp;C O N T A C T</samp>
+  </h3>
+
+
 </div>
