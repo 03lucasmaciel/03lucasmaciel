@@ -38,7 +38,6 @@
   <div align="left">
     <samp style="vertical-align: middle;">connections = [</samp>
     &nbsp;
-    
     <a href="URL_LINKEDIN" style="text-decoration: none;"><img src="./assets/linkedin.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22linkedin%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
     <samp style="vertical-align: middle;">,</samp>
     &nbsp;
