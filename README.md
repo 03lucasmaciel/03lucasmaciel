@@ -4,6 +4,6 @@
   <br/>
   
   <span style="font-size: 1.1em;">
-    Software Developer focused on building <b>robust and scalable</b> digital solutions
+    Software Developer focused on building <code>robust and scalable</code> digital solutions
   </span>
 </div>
