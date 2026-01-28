@@ -38,13 +38,13 @@
 <div align="left">
     <samp style="vertical-align: middle;">connections = [</samp>
     &nbsp;
-    <a href="URL_DO_TEU_SITE" style="text-decoration: none;"><img src="./assets/site.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22website%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
+    <a href="https://www.lucasmaciel.me/" style="text-decoration: none;"><img src="./assets/site.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22website%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
     <samp style="vertical-align: middle;">,</samp>
     &nbsp;
-    <a href="URL_LINKEDIN" style="text-decoration: none;"><img src="./assets/linkedin.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22linkedin%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
+    <a href="https://www.linkedin.com/in/-lucasmaciel/" style="text-decoration: none;"><img src="./assets/linkedin.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22linkedin%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
     <samp style="vertical-align: middle;">,</samp>
     &nbsp;
-    <a href="mailto:TEU_EMAIL@GMAIL.COM" style="text-decoration: none;"><img src="./assets/mail.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22email%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
+    <a href="mailto:03lucasmaciel@GMAIL.COM" style="text-decoration: none;"><img src="./assets/mail.svg" height="21" style="vertical-align: middle;" /><img src="https://img.shields.io/badge/%22email%22-161b22?style=flat-square&labelColor=161b22&color=161b22" height="21" style="vertical-align: middle;" /></a>
     &nbsp;
     <samp style="vertical-align: middle;">];</samp>
   </div>
